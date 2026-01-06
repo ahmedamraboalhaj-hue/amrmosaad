@@ -363,6 +363,14 @@ footer {
     transform: translateY(-5px);
 }
 
+.designer-credit {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 15px;
+    opacity: 0.8;
+}
+
+
 /* Animations */
 @keyframes fadeInUp {
     from {
